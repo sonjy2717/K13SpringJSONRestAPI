@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.20.202112202132-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/java/mybatis/mapper/MyMemberMapper.xml</file>
+			<name><![CDATA[MyMemberMapper]]></name>
+		</config>
+	</configs>
+</webflow-project-description>
