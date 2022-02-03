@@ -60,5 +60,14 @@
 			회원로그인 하기(객체형태)
 		</a>
 	</li>
+	
+	
+	
+	
+	<li>
+		<a href="./restapi/boardWrite.do?title=RestAPI로작성하기&content=내용내용&id=musthave" target="_blank">
+			글작성하기
+		</a>
+	</li>
 </body>
 </html>
